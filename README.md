@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Android Develpoment**
 
-- 💬 Ask me about **react, pyhton**
+- 💬 Ask me about **react, python**
 
 - 📫 How to reach me **vivek1322420@gmail.com**
 
