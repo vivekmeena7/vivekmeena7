@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/vivekme1322420" target="blank"><img src="https://img.shields.io/twitter/follow/vivekme1322420?logo=twitter&style=for-the-badge" alt="vivekme1322420" /></a> </p>
 
-- 🌱 I’m currently learning **Android Develpoment**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 💬 Ask me about **react, python**
 
